@@ -1,5 +1,5 @@
 REM ============================================================
-REM made_by_khanejo
+REM crack any zip
 @echo off
 title Rar Password Cracker
 mode con: cols=47 lines=20
